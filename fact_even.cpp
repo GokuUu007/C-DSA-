@@ -4,22 +4,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
-*****************READ PROBLEM STATEMENT CARE FULLY********************
-
-    1. Read statement 2 3.. times till u get actually 
-    what the problem want's you to do.
-
-    2. Think about the basic implementation 
-    first then jump on to code the solution.
-
-    3. Now run the problem on the given sample test 
-    case and think for some corner case's for about 1 or 2 min's.
-
-    4. Always think to generalize the problem 
-    into smaller part's.
-
-    5. Do not spend more than 30 min's on problem A.
-*/
  
 // FACTOR'S OF EVEN
 // given q queries && a no  1<=N<=10^18.
