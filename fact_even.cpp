@@ -20,7 +20,8 @@ using namespace std;
 
     5. Do not spend more than 30 min's on problem A.
 */
-
+ 
+// FACTOR'S OF EVEN
 // given q queries && a no  1<=N<=10^18.
 // query 1 : no of even factors of N.
 // query 2 : sum of factors of N .
